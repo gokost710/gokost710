@@ -26,11 +26,18 @@
   <a href="mailto:ikostikov710@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-
+  
+  <a href="https://www.linkedin.com/in/your_username/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <a href="https://github.com/your_username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  
   <a href="https://career.habr.com/your_username" target="_blank">
     <img src="https://img.shields.io/badge/Habr%20Career-65A3BE?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Career"/>
   </a>
-
 </div>
 
 </div>
