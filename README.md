@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/gokost710/" target="_blank">
+  <a href="www.linkedin.com/in/илья-костиков-04416938a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
@@ -69,7 +69,7 @@
   <a href="https://prometheus.io/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="50" height="50"/> 
   </a>
-  <a href="https://gitlab.com/" target="_blank"> 
+  <a href="https://github.com/gokost710" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="50" height="50"/> 
   </a>
   <a href="https://www.linux.org/" target="_blank"> 
