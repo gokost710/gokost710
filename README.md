@@ -81,5 +81,5 @@
 <h3 align="center"> </h3>
 
 <p align="center">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=gokost710" alt="bouaskaoun">
+  <img width="49.5%" src="https://streak-stats.demolab.com?user=gokost710" alt="GitHub Streak">
 </p>
