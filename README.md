@@ -81,5 +81,5 @@
 <h3 align="center"> </h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gokost710&theme=default&hide_border=true" alt="gokost710's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=gokost710&theme=default&hide_border=true" alt=" " />
 </p>
