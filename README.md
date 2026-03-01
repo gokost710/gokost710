@@ -1,5 +1,5 @@
 <h1 align="center">Привет 👋, я Илья <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">Студент РТУ МИРЭА и Golang-разработчик в Школе 21</h3>
+<h3 align="center">Я Golang-разработчик в Школе 21</h3>
 
 * 🔭 Сейчас я работаю над своим **курсом по Golang**
 
@@ -7,24 +7,22 @@
 
 * 👯 Хочу участвовать в **Highload проектах на Golang**
 
-* 📫 Как со мной связаться: **[ikostikov710@gmail.com](mailto:ikostikov710@gmail.com)**
-
-* ⚡ Что я люблю делать: **читать, заниматься спортом и, конечно же, программировать**
+* 📫 Как со мной связаться: **[kostikoff613@gmail.com](mailto:kostikoff613@gmail.com)**
 
 <h3 align="center">Связаться со мной</h3>
 <div align="center">
 <div align="center">
 
 
-  <a href="https://t.me/gokost710" target="_blank">
+  <a href="https://t.me/foly479" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 
-  <a href="https://vk.com/gokost710" target="_blank">
+  <a href="https://vk.com/foly479" target="_blank">
     <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
   </a>
 
-  <a href="mailto:ikostikov710@gmail.com" target="_blank">
+  <a href="mailto:kostikoff613@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   
