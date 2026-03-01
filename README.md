@@ -9,6 +9,8 @@
 
 * 📫 Как со мной связаться: **[kostikoff613@gmail.com](mailto:kostikoff613@gmail.com)**
 
+* 📩 Мой Telegram: **[Ilya Kostikov](https://t.me/foly479)**
+
 <h3 align="center">Связаться со мной</h3>
 <div align="center">
 <div align="center">
